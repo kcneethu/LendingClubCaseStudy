@@ -18,6 +18,6 @@
 - matplotlib
 
 ## Contributors
-Neethu [neethukchere@gmail.com] - feel free to contact me!
-Rishabh Shekhar [shekharrishabh3@gmail.com] - feel free to contact me!
+- Neethu [neethukchere@gmail.com] - feel free to contact me!
+- Rishabh Shekhar [shekharrishabh3@gmail.com] - feel free to contact me!
 
